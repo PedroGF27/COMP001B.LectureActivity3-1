@@ -10,3 +10,7 @@ aside {
     float: left;
     width: 25%;
 }
+
+#footer {
+    clear: left;
+}
